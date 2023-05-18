@@ -2,6 +2,10 @@
 
 I am Natalie and I am passionate about Data Science and Analytics. I will be graduating from Washington State University with a Bachelor of Science in Data analytics in the fall of 2023. I have complteled all of my data analytics degree requirements so I am ready to begin my career in data and learn new skills along the way.
 
+Check out my [Portfolio](https://github.com/Neversole/Portfolio.git) to view my completed projects.
+
+I am located in Beaverton, OR. In my free time I enjoy weight lifting, hiking, fishing, and cooking.
+
 <!--
 **Neversole/Neversole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
