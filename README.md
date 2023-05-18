@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my GitHub profile! 👋
+
+I am Natalie and I am passionate about Data Science and Analytics. I will be graduating from Washington State University with a Bachelor of Science in Data analytics in the fall of 2023. I have complteled all of my data analytics degree requirements so I am ready to begin my career in data and learn new skills along the way.
 
 <!--
 **Neversole/Neversole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
