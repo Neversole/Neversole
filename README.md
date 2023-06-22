@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 
-I am Natalie and I am passionate about Data Analytics. I will be graduating from Washington State University with a Bachelor of Science in Data analytics in the fall of 2023. I have completed all of my data analytics major requirements so I am ready to begin my career in data and learn new skills along the way.
+I am Natalie and I am passionate about Data Science and Engineering. I will be graduating from Washington State University with a Bachelor of Science in Data Analytics in the fall of 2023. I have completed all of my data analytics major requirements so I am ready to begin my career in data and learn new skills along the way.
 
 Check out my [Portfolio](https://github.com/Neversole/Portfolio.git) to view my completed projects.
 
