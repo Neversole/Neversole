@@ -1,6 +1,6 @@
 ### Welcome to my GitHub profile! 👋
 
-I am Natalie and I am passionate about Data Science and Engineering. I received my Bachelor of Science in Data Analytics from Washington State University in December of 2023. I currently work as a contractor for Nike in their Marketplace Supply Chain. I am located in beautiful Beaverton, Oregon. When I am not working or playing with data sets, I spend my free time weightlifting, hiking, rock climbing, fishing, and sewing.
+I am Natalie Bird and I am passionate about Data Science and Engineering. I received my Bachelor of Science in Data Analytics from Washington State University in December of 2023. I currently work as a contractor for Nike in their Marketplace Supply Chain. I am located in beautiful Beaverton, Oregon. When I am not working or playing with data sets, I spend my free time weightlifting, hiking, rock climbing, fishing, and sewing.
 
 Check out my [Portfolio](https://github.com/Neversole/Portfolio.git) to view my completed projects.
 
