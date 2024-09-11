@@ -1,10 +1,8 @@
 ### Welcome to my GitHub profile! 👋
 
-I am Natalie and I am passionate about Data Science and Engineering. I will be graduating from Washington State University with a Bachelor of Science in Data Analytics in the fall of 2023. I have completed all of my data analytics major requirements so I am ready to begin my career in data and learn new skills along the way.
+I am Natalie and I am passionate about Data Science and Engineering. I received my Bachelor of Science in Data Analytics from Washington State University in December of 2023. I currently work as a contractor for Nike in their Marketplace Supply Chain. I am located in beautiful Beaverton, Oregon. When I am not working or playing with data sets, I spend my free time weightlifting, hiking, rock climbing, fishing, and sewing.
 
 Check out my [Portfolio](https://github.com/Neversole/Portfolio.git) to view my completed projects.
-
-I am located in beautiful Beaverton, OR. In my free time, I enjoy keeping active by weightlifting, hiking, rock climbing, fishing, and cooking.
 
 <!--
 **Neversole/Neversole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
